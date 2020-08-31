@@ -4,3 +4,4 @@ RENCANA BELAJAR WEB PROGRAMMING
  * Pagination
 - CODEIGNITER 4
 - Javascript
+- Framework JS
