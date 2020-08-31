@@ -6,4 +6,5 @@ RENCANA BELAJAR WEB PROGRAMMING
 - Javascript
 - Framework JS
   * Vue
+  * Reach
 - Pyhton
